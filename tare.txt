@@ -1,0 +1,45 @@
+# entr1="Giovani"
+# equipo1=6
+
+# ent2="sabrina"
+# equipo2=6
+
+# print("El entrenador", entr1,"tiene", equipo1, "pokemons")
+# print("El entrenador "+ ent2+" tiene "+ str(equipo2)+ " pokemons")
+# print(f"El entrenador {entr1} tiene {equipo1} pokemons")
+
+# name= "Eva"
+# print(name[2])
+
+# nom=" Fernando Lopez "
+# print(nom. strip())
+# print(nom. lower())
+# print(nom. upper().strip())
+# print(nom.replace("Lopez", "Mussolini"))
+# print(nom.find("Mussolini"))
+
+
+# clave= "SHAZAM"
+# code=input("Ingrese su clave ")
+
+# if code.lower()==clave.lower :
+#     print ("calve correcta")
+# else:
+#     print("Clave incorrecta")
+
+
+# usuario=input("Ingrese cual sera su nombre de usuario ")
+
+# if 4< len (usuario) <10:
+#     print("nombre de usuario creado")
+# else:
+#     print("nombre de usuario invalido")
+
+# pin=int(input("Ingrese su PIN "))
+
+# if int(pin)>1000 and int(pin)<9999:
+#     print("PIN creado")
+# else:
+#     print("no se pudo crear su PIN")
+
+
